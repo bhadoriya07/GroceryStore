@@ -1,0 +1,24 @@
+C:\Users\neeleshbhadoriya\newGrocerApp\DomainModelLayer\bin\Debug\net6.0\DomainModelLayer.deps.json
+C:\Users\neeleshbhadoriya\newGrocerApp\DomainModelLayer\bin\Debug\net6.0\DomainModelLayer.dll
+C:\Users\neeleshbhadoriya\newGrocerApp\DomainModelLayer\bin\Debug\net6.0\DomainModelLayer.pdb
+C:\Users\neeleshbhadoriya\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\DomainModelLayer.csproj.AssemblyReference.cache
+C:\Users\neeleshbhadoriya\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\DomainModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neeleshbhadoriya\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\DomainModelLayer.AssemblyInfoInputs.cache
+C:\Users\neeleshbhadoriya\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\DomainModelLayer.AssemblyInfo.cs
+C:\Users\neeleshbhadoriya\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\DomainModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\neeleshbhadoriya\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\DomainModelLayer.dll
+C:\Users\neeleshbhadoriya\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\refint\DomainModelLayer.dll
+C:\Users\neeleshbhadoriya\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\DomainModelLayer.pdb
+C:\Users\neeleshbhadoriya\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\ref\DomainModelLayer.dll
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\DomainModelLayer\bin\Debug\net6.0\DomainModelLayer.deps.json
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\DomainModelLayer\bin\Debug\net6.0\DomainModelLayer.dll
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\DomainModelLayer\bin\Debug\net6.0\DomainModelLayer.pdb
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\DomainModelLayer.csproj.AssemblyReference.cache
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\DomainModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\DomainModelLayer.AssemblyInfoInputs.cache
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\DomainModelLayer.AssemblyInfo.cs
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\DomainModelLayer.csproj.CoreCompileInputs.cache
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\DomainModelLayer.dll
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\refint\DomainModelLayer.dll
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\DomainModelLayer.pdb
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\DomainModelLayer\obj\Debug\net6.0\ref\DomainModelLayer.dll

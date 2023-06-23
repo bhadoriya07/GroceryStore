@@ -1,0 +1,44 @@
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\bin\Debug\net6.0\DomainModelLayer.dll
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\bin\Debug\net6.0\Shared.dll
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\bin\Debug\net6.0\DomainModelLayer.pdb
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\bin\Debug\net6.0\Shared.pdb
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\neeleshbhadoriya\newGrocerApp\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\bin\Debug\net6.0\BLL.dll
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\bin\Debug\net6.0\DAL.dll
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\bin\Debug\net6.0\DomainModelLayer.dll
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\bin\Debug\net6.0\Shared.dll
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\bin\Debug\net6.0\DomainModelLayer.pdb
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\bin\Debug\net6.0\Shared.pdb
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\obj\Debug\net6.0\BLL.dll
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Workspace\neelesh-singh-bhadoriya\ExitTest Assignment\newGrocerApp\BLL\obj\Debug\net6.0\ref\BLL.dll

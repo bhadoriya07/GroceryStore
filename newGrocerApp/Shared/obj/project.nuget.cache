@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LjgnHZF1yTMeARRqr8LTzwAuzowxLgzQIf2l5w7Dakl7AvByI0SzBYWE8JlWmJ4ghPltIw8Cqq6Hx5C7y5jszQ==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\neelesh-singh-bhadoriya\\ExitTest Assignment\\newGrocerApp\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neeleshbhadoriya\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\neeleshbhadoriya\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\neeleshbhadoriya\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
